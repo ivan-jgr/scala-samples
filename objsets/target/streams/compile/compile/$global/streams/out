@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/seifert/Tutorials/scala/objsets/src/main/scala/objsets/TweetSet.scala:147:14: value isEmpty is not a member of objsets.TweetSet[0m
+[0m[[0m[31merror[0m] [0m[0m    if (left.isEmpty && right.isEmpty) elem[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seifert/Tutorials/scala/objsets/src/main/scala/objsets/TweetSet.scala:147:31: value isEmpty is not a member of objsets.TweetSet[0m
+[0m[[0m[31merror[0m] [0m[0m    if (left.isEmpty && right.isEmpty) elem[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seifert/Tutorials/scala/objsets/src/main/scala/objsets/TweetSet.scala:148:19: value isEmpty is not a member of objsets.TweetSet[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (left.isEmpty) findMostRetweetedTweet(right.mostRetweeted, elem)[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seifert/Tutorials/scala/objsets/src/main/scala/objsets/TweetSet.scala:149:20: value isEmpty is not a member of objsets.TweetSet[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (right.isEmpty) findMostRetweetedTweet(left.mostRetweeted, elem)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
